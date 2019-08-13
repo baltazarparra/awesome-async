@@ -25,7 +25,7 @@
 
 ## Error handling
 * [Promises error handling - MPJ video](https://www.youtube.com/watch?v=f8IgdnYIwOU)
-* [Error handling com promises - Filipe Deschamps video](https://www.youtube.com/watch?v=ZgWyha2d6iY)
+* [Error handling com promises - Filipe Deschamps video](https://www.youtube.com/watch?v=ZgWyha2d6iY) <span>&#x1f1e7;&#x1f1f7;</span>
 
 ## Pitfalls
 * [The pitfalls of async/await in array loops](https://medium.com/dailyjs/the-pitfalls-of-async-await-in-array-loops-cf9cf713bfeb)
