@@ -10,7 +10,7 @@
 </p>
 
 ## Promises
-* [Promessas em JavaScript: uma introdução](https://developers.google.com/web/fundamentals/primers/promises?hl=pt-br) - pt-br :brazil:
+* [Promessas em JavaScript: uma introdução](https://developers.google.com/web/fundamentals/primers/promises?hl=pt-br) - pt-br
 * [Promises - Scotch io for dummies](https://scotch.io/tutorials/javascript-promises-for-dummies) - en
 * [Promises - MPJ video](https://www.youtube.com/watch?v=2d7s3spWAzo) - en
 * [Promises - ponyfoo in depth](https://ponyfoo.com/articles/es6-promises-in-depth) - en
