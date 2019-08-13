@@ -1,8 +1,7 @@
 <p align="center">
   <img height="300" src="https://achievement-images.teamtreehouse.com/badge_async-programming-with-JS_stage1.png">
+  Awesome Async
 </p>
-
-# awesome-async
 :cyclone: A curated list of Async javascript flow
 
 ## Promises
