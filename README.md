@@ -3,7 +3,7 @@
 </p>
 </br></br>
 <p align="center">
-  <b>Awesome Async</b>
+  <h1>Awesome Async</h1>
 </p>
 
 <p align="center">
