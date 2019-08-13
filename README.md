@@ -1,5 +1,5 @@
 <p align="center">
-  <img height="300" src="https://achievement-images.teamtreehouse.com/badge_async-programming-with-JS_stage1.png">
+  <img height="200" src="https://achievement-images.teamtreehouse.com/badge_async-programming-with-JS_stage1.png">
 </p>
 </br></br>
 <p align="center">
