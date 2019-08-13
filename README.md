@@ -3,7 +3,7 @@
 </p>
 </br></br>
 <p align="center">
-  ## Awesome Async
+  <b>Awesome Async</b>
 </p>
 
 <p align="center">
