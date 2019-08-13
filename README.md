@@ -5,7 +5,6 @@
 <p align="center">
   <b>Awesome Async</b>
 </p>
-
 <p align="center">
   :cyclone: A curated list of Async javascript flow
 </p>
