@@ -1,4 +1,6 @@
-[![awesome async](https://achievement-images.teamtreehouse.com/badge_async-programming-with-JS_stage1.png)]
+<p align="center">
+  <img height="300" src="https://achievement-images.teamtreehouse.com/badge_async-programming-with-JS_stage1.png">
+</p>
 
 # awesome-async
 :cyclone: A curated list of Async javascript flow
