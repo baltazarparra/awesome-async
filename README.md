@@ -21,6 +21,12 @@
 * [Async / Await em JavaScript - O que, Por que e Como](https://www.youtube.com/watch?v=568g8hxJJp4) - en
 * [Is async / await useless?](https://www.youtube.com/watch?v=ho5PnBOoacw) - en
 
+## Generators
+* [ES6 Generators in Depth](https://ponyfoo.com/articles/es6-generators-in-depth) - en
+* [Generators are changing the way we write Javascript](https://riad.blog/2016/01/20/how-es6-generators-are-changing-the-way-we-write-javascript/) - en
+* [Generators estão mudando nosso modo de escrever JavaScript](https://medium.com/nossa-coletividad/es6-generators-est%C3%A3o-mudando-nosso-modo-de-escrever-javascript-e99f7c79bdd7) - pt-br
+
+
 ## Error handling
 * [Tratamento de erros com Promises em JavaScript](https://www.youtube.com/watch?v=f8IgdnYIwOU) - en
 * [Error handling com JavaScript e Promises](https://www.youtube.com/watch?v=ZgWyha2d6iY) - pt-br
