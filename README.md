@@ -34,3 +34,6 @@
 ## Pitfalls
 * [The Pitfalls of Async/Await in Array Loops](https://medium.com/dailyjs/the-pitfalls-of-async-await-in-array-loops-cf9cf713bfeb) - en
 * [Armadilhas do Async/Await em loops](https://medium.com/@oieduardorabelo/javascript-armadilhas-do-asyn-await-em-loops-1cdad44db7f0) - pt-br
+
+## Playground
+* [Promise visualization playground for the adventurous](http://bevacqua.github.io/promisees/)
