@@ -10,6 +10,7 @@
 </p>
 
 ## Promises
+* [An open standard for sound, interoperable JavaScript promises](https://promisesaplus.com/) - en
 * [Promessas em JavaScript: uma introdução](https://developers.google.com/web/fundamentals/primers/promises?hl=pt-br) - pt-br
 * [JavaScript Promises for Dummies](https://scotch.io/tutorials/javascript-promises-for-dummies) - en
 * [Promises - Functional Programming in JavaScript](https://www.youtube.com/watch?v=2d7s3spWAzo) - en
